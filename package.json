@@ -16,5 +16,10 @@
         "git-commit-msg-linter": "^5.0.8",
         "husky": "^9.1.7",
         "lint-staged": "^16.1.5"
+    },
+    "dependencies": {
+        "dotenv": "^17.2.1",
+        "express": "^5.1.0",
+        "pg": "^8.16.3"
     }
 }
